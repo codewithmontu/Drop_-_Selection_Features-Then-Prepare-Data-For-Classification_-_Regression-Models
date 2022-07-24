@@ -1,0 +1,1 @@
+1. Drop Constant Variables & 2. Check for Correlations then higher correlated unwanted features will be dropped as they don't impact or duplicate impacts on the output. Selections of Features will be done based on top most 10, 15 or 20 dependency rate. 3. Then in the last Prepare Data For Classification & Regression Models.
